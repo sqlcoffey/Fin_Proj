@@ -1,0 +1,20 @@
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\bin\Debug\FinancialMenu.exe.config
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\bin\Debug\FinancialMenu.exe
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\bin\Debug\FinancialMenu.pdb
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.Form1.resources
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.exe
+D:\Documents\visual studio 2017\Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\bin\Debug\FinancialMenu.exe.config
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\bin\Debug\FinancialMenu.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\bin\Debug\FinancialMenu.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.Form1.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\FinancialMenu\FinancialMenu\obj\Debug\FinancialMenu.pdb

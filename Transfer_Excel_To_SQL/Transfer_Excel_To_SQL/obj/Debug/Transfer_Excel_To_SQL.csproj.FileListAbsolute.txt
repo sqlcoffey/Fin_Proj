@@ -1,0 +1,10 @@
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\bin\Debug\Transfer_Excel_To_SQL.exe.config
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\bin\Debug\Transfer_Excel_To_SQL.exe
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\bin\Debug\Transfer_Excel_To_SQL.pdb
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.Form1.resources
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.exe
+D:\Documents\visual studio 2017\Projects\Transfer_Excel_To_SQL\Transfer_Excel_To_SQL\obj\Debug\Transfer_Excel_To_SQL.pdb

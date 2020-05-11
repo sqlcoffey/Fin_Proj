@@ -1,0 +1,20 @@
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\bin\Debug\RegReconSQL.exe.config
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\bin\Debug\RegReconSQL.exe
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\bin\Debug\RegReconSQL.pdb
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.exe
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.pdb
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.Form1.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\bin\Debug\RegReconSQL.exe.config
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\bin\Debug\RegReconSQL.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\bin\Debug\RegReconSQL.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.Form1.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\RegReconSQL\RegReconSQL\obj\Debug\RegReconSQL.pdb

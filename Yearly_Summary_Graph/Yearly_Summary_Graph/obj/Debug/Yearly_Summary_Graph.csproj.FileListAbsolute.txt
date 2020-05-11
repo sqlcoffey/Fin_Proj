@@ -1,0 +1,20 @@
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\bin\Debug\Yearly_Summary_Graph.exe.config
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\bin\Debug\Yearly_Summary_Graph.exe
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\bin\Debug\Yearly_Summary_Graph.pdb
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.Form1.resources
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.exe
+D:\Documents\visual studio 2017\Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\bin\Debug\Yearly_Summary_Graph.exe.config
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\bin\Debug\Yearly_Summary_Graph.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\bin\Debug\Yearly_Summary_Graph.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.Form1.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\Yearly_Summary_Graph\Yearly_Summary_Graph\obj\Debug\Yearly_Summary_Graph.pdb

@@ -1,0 +1,20 @@
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\bin\Debug\BudgetCodeMaint.exe.config
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\bin\Debug\BudgetCodeMaint.exe
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\bin\Debug\BudgetCodeMaint.pdb
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.Form1.resources
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.exe
+D:\Documents\Visual Studio 2019\Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\bin\Debug\BudgetCodeMaint.exe.config
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\bin\Debug\BudgetCodeMaint.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\bin\Debug\BudgetCodeMaint.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.Form1.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\BudgetCodeMaint\obj\Debug\BudgetCodeMaint.pdb

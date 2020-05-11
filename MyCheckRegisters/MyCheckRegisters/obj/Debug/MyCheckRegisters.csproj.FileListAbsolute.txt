@@ -1,0 +1,20 @@
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\bin\Debug\MyCheckRegisters.exe.config
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\bin\Debug\MyCheckRegisters.exe
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\bin\Debug\MyCheckRegisters.pdb
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.Form1.resources
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.exe
+D:\Documents\visual studio 2017\Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\bin\Debug\MyCheckRegisters.exe.config
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\bin\Debug\MyCheckRegisters.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\bin\Debug\MyCheckRegisters.pdb
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.csprojAssemblyReference.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.Form1.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.Properties.Resources.resources
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.csproj.GenerateResource.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.csproj.CoreCompileInputs.cache
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.exe
+D:\Documents\visual studio 2017\Projects\Financial Projects\MyCheckRegisters\MyCheckRegisters\obj\Debug\MyCheckRegisters.pdb
